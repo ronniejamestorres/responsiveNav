@@ -4,16 +4,12 @@
   
   body {
     margin: 0px;
-    font-family:monospace;
-    background-color: rgb(255, 215, 142);
-  }
+
   
   .nav {
     height: 50px;
     width: 100%;
-    background-color: rgb(138, 93, 10);
-    position: relative;
-  }
+
   
   .nav > .nav-header {
     display: inline;
