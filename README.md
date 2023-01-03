@@ -1,3 +1,2 @@
-# responsiveNav
-# These are some changes I made this morning
-# yes
+# Responsive Navbar
+** CSS codes inside HTML file ** 
